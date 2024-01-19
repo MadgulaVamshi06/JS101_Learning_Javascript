@@ -1,8 +1,8 @@
 function printMasaiSchool(num) {
     var i = 0;
-    while (i < num) {
+    while (j < num) {
         console.log("Masai School");
-        i++;
+        j++;
     }
 }
 printMasaiSchool(5);
