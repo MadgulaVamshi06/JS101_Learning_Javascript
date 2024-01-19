@@ -1,5 +1,5 @@
 function printMasaiSchool(num) {
-    var i = 0;
+    var j = 0;
     while (j < num) {
         console.log("Masai School");
         j++;
